@@ -13,6 +13,8 @@
         - git add .
         - git commit -m "message""
         - git push
+    ***
+    GIT PULL: 
 10:51
 ***. git config credential.username "github username"
 ***. git config credential.password "github password"
